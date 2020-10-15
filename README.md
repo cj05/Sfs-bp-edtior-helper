@@ -15,3 +15,4 @@ Such as getting locked parts
 
 
 I am not affiliated with stef or the devs
+I am not responsible for any damages by any illegal actions
