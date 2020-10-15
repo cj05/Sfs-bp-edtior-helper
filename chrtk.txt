@@ -1,0 +1,11 @@
+C-Capsule
+T-Fuel Tank.N:width_original;2:width_a;2:width_b;2:height;1:fuel_percent;1.T:color_tex;"_":shape_tex;"_"
+K-Engine Kolibri.B:engine_on;false
+H-Engine Hawk.B:engine_on;false
+D-Separator.N:width;2:width_b;2:height;0:height_max;4.T:color_tex;""
+S-Side Separator.T:fragment;null
+P-Parachute.N:deploy_state;0:animation_state;0
+V-Engine Valiant.B:engine_on;false
+L-Landing Leg.N:state;0:state_target;0
+B-Landing Leg Big.N:state;0:state_target;0
+c-Cone.N:size;2.T:color_tex;"_":shape_tex;"_"
