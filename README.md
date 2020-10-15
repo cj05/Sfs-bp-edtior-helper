@@ -10,4 +10,8 @@ It’s a keyword/part containment file
 Store what attributes part have and it’s default value
 Do not use this for any kind of piracy
 Such as getting locked parts 
+
+
+
+
 I am not affiliated with stef or the devs
