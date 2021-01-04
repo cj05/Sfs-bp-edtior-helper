@@ -80,7 +80,7 @@ while True:
         if len(args) >= 3:
             if len(args) == 3:
                 sx,sy,rot=1,1,0
-                
+                attr={}
             if len(args) == 4:
                 sx=args[3]
                 sy=1
